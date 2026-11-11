@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" width="280" height="64" fill="none">
+  <!-- LOGO ICON MARK -->
+  <g id="logo-icon" transform="translate(4, 2)">
+    <!-- Book Left Outer Pages -->
+    <path d="M 6 14 C 16 11, 24 13, 24 13 L 24 48 C 24 48, 16 46, 6 49 Z" fill="#0E3D4D" />
+    
+    <!-- Book Right Outer Cover -->
+    <path d="M 24 13 C 24 13, 33 11, 46 15 L 46 49 C 33 45, 24 47, 24 47 Z" fill="#0D5C75" />
+    
+    <!-- Book Left Inner Page -->
+    <path d="M 8 12 C 16 10, 23 12, 23 12 L 23 45 C 23 45, 16 43, 8 46 Z" fill="#F4F1EA" />
+    
+    <!-- Book Right Inner Page -->
+    <path d="M 25 12 C 25 12, 33 10, 44 14 L 44 46 C 33 42, 25 44, 25 44 Z" fill="#EAE5DA" />
+    
+    <!-- Coral Ribbon Bookmark (Compound Path Star Cutout) -->
+    <path fill-rule="evenodd" d="M 15 6 L 31 6 L 31 46 L 23 40 L 15 46 Z M 23 26.5 L 24.1 29.1 L 26.9 29.3 L 24.7 31.2 L 25.4 34 L 23 32.5 L 20.6 34 L 21.3 31.2 L 19.1 29.3 L 21.9 29.1 Z" fill="#FF5A36" />
+  </g>
+
+  <!-- WORDMARK -->
+  <text x="64" y="43" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="32" font-weight="700" letter-spacing="-0.5">
+    <tspan fill="#1E293B">Book</tspan><tspan fill="#FF5A36">marks</tspan>
+  </text>
+</svg>
